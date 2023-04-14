@@ -1,5 +1,5 @@
 # INTERNET-MOBILE-PROGRAMMING
-##GROUP 17
+## GROUP 17
 
 This repository is mainly for CEF 440: Internet Programming and Mobile Programming
 
